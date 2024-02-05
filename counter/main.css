@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#round{
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    border: solid;
+    margin-left: 2rem;
+}
+
+#cen{
+  margin-left: 40rem;
+
+}
+
+#num{
+    margin-left: 1.3rem;
+    margin-top: 1rem;
+}
+
+#btnClick{
+    padding: 5px 10px;
+}
+
+#ctnClick{
+    padding: 5px 10px;
+}
+
+#bb{
+    margin-left: -3.5rem;
+}
+
+#clear{
+    padding: 5px 10px;
+}
